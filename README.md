@@ -10,3 +10,6 @@ This is a menu use to automate the following technology with python script. <br>
 8.AWS Management <br>
 9.Ansible Mangement <br>
 10.LVM Management <br>
+
+Team Members<br>
+1.GAGANDEEP KUMAR <br>
