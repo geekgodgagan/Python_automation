@@ -12,6 +12,7 @@ This is a menu use to automate the following technology with python script. <br>
 10.LVM Management <br>
 
 Team Members<br>
-1.GAGANDEEP KUMAR <br>
+1. GAGANDEEP KUMAR <br>
 2. GAUTAM JOSHI <br>
 3. SANGEETH SAHANA <br> 
+4. KUNTI
